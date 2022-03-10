@@ -1,0 +1,143 @@
+{
+  "products":[
+    {
+      "id":1,
+      "categoryId": 1,
+      "productName": "Chaasdi",
+      "quantityPerUnit": "48 - 6 oasdz jarasds",
+      "unitPrice":"4213",
+      "unitsInStock": 531
+    },
+    {
+      "id":2,
+      "categoryId":2,
+      "productName": "asdChai",
+      "quantityPerUnit": "48 - 6 asdoz jadrs",
+      "unitPrice":"5313",
+      "unitsInStock": 52
+    },
+    {
+      "id":3,
+      "categoryId": 3,
+      "productName": "Chaasdi",
+      "quantityPerUnit": "48 - 6 asdoz jars",
+      "unitPrice":"6323",
+      "unitsInStock": 53
+    },
+    {
+      "id":4,
+      "categoryId": 4,
+      "productName": "Chaasdi",
+      "quantityPerUnit": "48 - 6 oz jasdars",
+      "unitPrice":"8223",
+      "unitsInStock": 153
+    },
+    {
+      "id":5,
+      "categoryId": 5,
+      "productName": "Casdasdhai",
+      "quantityPerUnit": "48 - 6 oz jasdars",
+      "unitPrice":"26123",
+      "unitsInStock": 533
+    },
+    {
+      "id":6,
+      "categoryId": 6,
+      "productName": "Chasdsdai",
+      "quantityPerUnit": "48 - 6 oasdz jars",
+      "unitPrice":"253",
+      "unitsInStock": 153
+    }
+    , {
+      "id":7,
+      "categoryId":7,
+      "productName": "Casdhai",
+      "quantityPerUnit": "48 - 6 ozas jars",
+      "unitPrice":"12123",
+      "unitsInStock": 535
+    }
+    ,
+    {
+      "id":8,
+      "categoryId": 8,
+      "productName": "Casdhai",
+      "quantityPerUnit": "48 - 6 ozs jars",
+      "unitPrice":"2331",
+      "unitsInStock": 537
+    },
+    {
+      "id":9,
+      "categoryId": 9,
+      "productName": "Chadsai",
+      "quantityPerUnit": "48 - 6 ozs jars",
+      "unitPrice":"2333",
+      "unitsInStock": 531
+    },
+    {
+      "id":10,
+      "categoryId": 10,
+      "productName": "Casdhai",
+      "quantityPerUnit": "48 - 6 oz jaars",
+      "unitPrice":"2123",
+      "unitsInStock": 532
+    }
+  ],
+  "categories":[
+    {
+      "id":1,
+      "categoryName":"Beverages",
+      "seoUrl":"beverages"
+    },
+    {
+      "id":2,
+      "categoryName":"Kablo",
+      "seoUrl":"kablo"
+    },
+    {
+      "id":3,
+      "categoryName":"Condiments",
+      "seoUrl":"condiments"
+    },
+    {
+      "id":11,
+      "categoryName":"Bag",
+      "seoUrl":"bag"
+    },
+    {
+      "id":4,
+      "categoryName":"Çatal",
+      "seoUrl":"çatal"
+    },
+    {
+      "id":5,
+      "categoryName":"Kaşık",
+      "seoUrl":"kaşık"
+    },
+    {
+      "id":6,
+      "categoryName":"Bardak",
+      "seoUrl":"bardak"
+    },
+    {
+      "id":7,
+      "categoryName":"Dog",
+      "seoUrl":"dog"
+    },
+    {
+      "id":8,
+      "categoryName":"Cat",
+      "seoUrl":"cat"
+    },
+    {
+      "id":9,
+      "categoryName":"Bike",
+      "seoUrl":"bike"
+    },
+    {
+      "id":10,
+      "categoryName":"Cars",
+      "seoUrl":"cars"
+    }
+  ]
+}
+   

@@ -1,0 +1,9 @@
+{
+   "posts" : [ 
+    { "id" : 1 , "title" : " json-server " , "yazar" : " typeicode "  } 
+  ], "yorumlar" : [ 
+    { "id" : 1 , "body" : " bazı yorumlar " , "postId" : 1 } 
+  ], "profil" : { "ad" : " typeicode "} 
+}
+  
+   
